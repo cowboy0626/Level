@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "BF6C29D4-116E-43FE-A5C6-ACDCFCAA27A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 184,
+    "width": 303,
+    "x": 35,
+    "y": 447
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "E85CD667-A3C5-4171-A459-3BDC2741AAA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A889CB2-AE21-4F78-AE31-EFD83C9F7C24"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB054E2E-93EC-4DEB-8889-0E5800AA0B9B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F23E2D1-49FD-4A7E-BA9B-9DE8DB1ECFAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C08EE2FE-EA97-4833-9191-3AA5158AE84F"
+    }
+  ],
+  "name": "로그인폼",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isCollapsing": 1,
+        "spacing": 0,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}
