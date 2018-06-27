@@ -1,0 +1,46 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "2D3B016C-4F98-45D7-92C8-20FA76606C32",
+  "name": "Primary/Fill",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9182079081632653,
+          "green": 0.9182079081632653,
+          "red": 0.9182079081632653
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7155877976190477,
+          "green": 0.6231450991690685,
+          "red": 0.0921025645451915
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "2D3B016C-4F98-45D7-92C8-20FA76606C32",
+    "startDecorationType": 0
+  }
+}
